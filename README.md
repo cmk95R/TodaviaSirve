@@ -1,13 +1,12 @@
 # grupo_9_todaviaSirve
 ## Descripción:
 ### todaviaSirve ofrece servicio de "compra/venta" de una amplia gama de "productos usados".
-### como novedad incorpora la posibilida de realizar "trueque" de productos entre los usuarios, el mismo se realizará colocando un valor estimado de su producto, y se filtra con lista de productos de valor similar.
+
 
 ## Público:
 ### todaviaSirve apunta a todo público en general.
 ### Apunta a toda persona tenga cosas usadas y quiera venderlas.
 ### Apunta a toda persona que quiera comprar algún producto usado.
-### Apunta a toda persona que quiera tener la posibilidad de adquirir un producto a través de trueque.
 
 ## Integrantes:
 ### Andrés Olivera | Edad: 36 | Ciudad: Moreno |
